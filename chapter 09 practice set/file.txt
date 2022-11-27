@@ -1,0 +1,1 @@
+This is a file which is smaller than folder
